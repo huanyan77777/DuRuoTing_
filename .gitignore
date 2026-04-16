@@ -1,0 +1,23 @@
+﻿# Python runtime
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local bot config and secrets
+.env
+appsettings.json
+device.json
+
+# Runtime state and generated data
+cache/
+data/
+
+# LLOneBot local runtime bundle and data
+llonebot/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+
+Lagrange.OneBot_win-x64_net9.0_SelfContained.zip
+Lagrange.OneBot.exe
